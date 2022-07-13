@@ -1,0 +1,1 @@
+numberIndividuals;cxpb;mtpb;numberGenerations;maxHeight;accelerator;bestEq;bestMetric;

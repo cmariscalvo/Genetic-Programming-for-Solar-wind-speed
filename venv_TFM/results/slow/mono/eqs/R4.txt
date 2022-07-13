@@ -1,0 +1,1 @@
+-p_density_1d_2 - p_density_carrington_2 + speed_1d_1 + (p_density_1d_1 - log10(temperature_1d_2) - 1)*log10(Bt_1d_3*Bt_carrington_2*(p_density_1d_2 + temperature_1d_1)*log10(temperature_1d_1)*log10(log10(temperature_1d_1)) + sqrt(tan(speed_1d_1)))
